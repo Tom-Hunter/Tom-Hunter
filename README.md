@@ -8,6 +8,6 @@
  
 - 🔭 Goal: Make the internet a better place.
 - 💯 Rule of the thumb: Every day is a learning day.
-- 🌱 I am proficient in Java, Javascript, Dart, Spring Boot, Flutter, React.js, Node.js and Vue.js.
+- 🌱 I am proficient in Java, Javascript, Dart, Spring Boot, Flutter, React.js, and Node.js.
 - 📫 How to reach me: [Email](mailto:tngenye946@gmail.com) 
 - ⚡ Fun fact: Good Software, like wine, takes time.
