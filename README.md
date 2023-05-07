@@ -6,7 +6,7 @@
 ![Thomas Github stats](https://github-readme-stats.vercel.app/api?username=Tom-Hunter&theme=synthwave&show_icons=true&count_private=true)
 
  
-- 🔭 Goal: Make the internet a better place.
+<!-- - 🔭 Goal: Make the internet a better place. -->
 - 💯 Rule of the thumb: Every day is a learning day.
 - 🌱 I am proficient in Java, Javascript, Dart, Spring Boot, Flutter, React.js, and Node.js.
 - 📫 How to reach me: [Email](mailto:tngenye946@gmail.com) 
